@@ -1,6 +1,6 @@
 # Olá, eu sou Alisson 👋
 
-## 🚀 Sobre mim
+## 👤 Sobre mim
 
 - 🎓 Estudante de ADS e Profissional em Tecnologia da informação
 - 💻 Trabalhando com tecnologias como JavaScript, React, Node.js, Python.
